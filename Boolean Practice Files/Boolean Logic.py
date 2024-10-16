@@ -15,3 +15,4 @@ def purity_test():
 
 
 print(purity_test())
+print("Test Done")
