@@ -4,7 +4,6 @@ height = float(input())
 bmi = weight / (height ** 2)
 print(bmi)
 
-# Conditions have been corrected
 if bmi >= 30:
     print('Obesity')
 elif 25 <= bmi < 30:
