@@ -14,7 +14,8 @@ cart = [15, 42, 120, 9, 5, 380]
 # cartPrice = sum(cart)
 # Could of just uses cartPrice and used the formula with the input for the discount to get the total rather than adding everything up
 ###########################################################################
-
+# Another thing I see I could have done better was doing for x in cart rather than looping threw with i and checking to make sure it's not over the limit of things inside
+###########################################################################
 discount = int(input())
 price = 0
 total = 0
