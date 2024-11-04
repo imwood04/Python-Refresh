@@ -10,4 +10,4 @@
 
 listInput = [input()]
 
-print(list[0][::-1])
+print(listInput[0][::-1])
